@@ -63,7 +63,7 @@ AUTH = "1234567" #config("AUTH", default=None)
 
 ```
 
-## Commands Available in Bot - [TEAM SPY](https://t.me/dev_gagan)
+## Commands Available in Bot
 
 - ```/start``` - to start the bot
 - ```/batch``` - to download the files in range/bulk by giving one post link and range value
@@ -78,16 +78,7 @@ AUTH = "1234567" #config("AUTH", default=None)
 - `/broadcast` - send bulk message to all users who ever have started the bot
 - `/help` - get help about other commands
 
-## Support
 
-[<img src="https://img.icons8.com/ios/50/000000/instagram-new.png"/>](https://instagram.com/devagagn.in)
-[<img src="https://img.icons8.com/ios/50/000000/youtube.png"/>](https://youtube.com/@dev_gagan)
-[<img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>](https://t.me/dev_gagan)
-[<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>](https://github.com/devgaganin)
-[<img src="https://img.icons8.com/ios/50/000000/domain--v1.png"/>](https://devgagan.in)
-
-## Terms of USE / Modification 
-Visit [Terms](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blob/main/TERMS_OF_USE.md) and accept the guidelines.
 
 ## Contributing
 
